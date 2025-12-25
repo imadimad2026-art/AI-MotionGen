@@ -2,7 +2,8 @@
 
 A powerful tool to convert TSX/React code into stunning motion graphics videos using Remotion. Created for content creators and developers who want to generate professional animated videos programmatically.
 
-![AI Motion Graphics Tool](example/1.jpg)
+<img width="1469" height="908" alt="image" src="https://github.com/user-attachments/assets/0516968f-60e3-4065-b747-cb7fd257818a" />
+
 
 ## 🌟 Features
 
@@ -16,8 +17,7 @@ A powerful tool to convert TSX/React code into stunning motion graphics videos u
 
 - **YouTube Channel**: [Arabian AI School (مدرسة الذكاء الاصطناعي)](https://www.youtube.com/@ArabianAiSchool?sub_confirmation=1)
 - **Video Tutorial**: [Watch the full tutorial](https://www.youtube.com/@ArabianAiSchool)
-- **Developer**: Baraa Mohammed
-
+- **download** : https://drive.google.com/file/d/17cFUS1NIcjCJN9UTL35XUe9dzoFMTPM2/view?usp=sharing
 ## 🚀 Quick Start
 
 ### Prerequisites
@@ -210,3 +210,4 @@ This project is open source and available under the MIT License.
 ⭐ If you find this tool useful, please give it a star on GitHub and subscribe to the channel!
 
 🔔 Subscribe: https://www.youtube.com/@ArabianAiSchool?sub_confirmation=1
+
