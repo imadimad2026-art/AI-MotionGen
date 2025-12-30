@@ -3,7 +3,7 @@
 # see: https://firebase.google.com/docs/studio/customize-workspace
 { pkgs, ... }: {
   # Which nixpkgs channel to use.
-  channel = "stable-24.05"; # or "unstable"
+  channel = "unstable"; # or "stable-24.05"
 
   # Use https://search.nixos.org/packages to find packages
   packages = [
@@ -19,6 +19,7 @@
     pkgs.gradle
     pkgs.nodejs_20
     pkgs.android-sdk
+    pkgs.androidenv.androidPkgs.all.packages.build-tools.v35_0_0
   ];
 
   # Sets environment variables in the workspace
